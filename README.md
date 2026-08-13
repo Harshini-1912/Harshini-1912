@@ -20,7 +20,7 @@ Building full-stack applications with Java, Spring Boot, React & SQL.
 
 ---
 
-## `01` · ABOUT ME
+## ABOUT ME
 
 I'm a **final-year Computer Science Engineering student** focused on **Java Full Stack Development and AI-powered applications**.
 
@@ -34,7 +34,7 @@ I'm actively looking for opportunities where I can contribute, learn, and grow a
 
 ---
 
-## `02` · TECHNICAL SKILLS
+##  TECHNICAL SKILLS
 
 <table>
 <tr>
@@ -130,7 +130,7 @@ I'm actively looking for opportunities where I can contribute, learn, and grow a
 
 ---
 
-## `03` · FEATURED PROJECTS
+## FEATURED PROJECTS
 
 ### 💼 Java Full Stack Job Portal
 
@@ -213,7 +213,7 @@ A modern ride-booking application inspired by real-world mobility platforms.
 
 ---
 
-## `04` · CERTIFICATIONS
+##  CERTIFICATIONS
 
 ### ☁️ Cloud & AI
 
@@ -229,7 +229,7 @@ A modern ride-booking application inspired by real-world mobility platforms.
 
 ---
 
-## `05` · EDUCATION
+##  EDUCATION
 
 ### Bachelor of Technology — Computer Science & Engineering
 
@@ -241,7 +241,7 @@ Final-year CSE student focused on software development, databases, artificial in
 
 ---
 
-## `06` · CURRENT FOCUS
+##  CURRENT FOCUS
 
 ```text
 JAVA
@@ -273,7 +273,7 @@ AI
 
 ---
 
-## `07` · GITHUB
+##  GITHUB
 
 <div align="center">
 
@@ -285,7 +285,7 @@ AI
 
 ---
 
-## `08` · WHAT I BUILD
+##  WHAT I BUILD
 
 ```text
          PROBLEM
@@ -315,7 +315,7 @@ I believe good software is not just about writing code—it is about **understan
 
 ---
 
-## `09` · OPEN TO OPPORTUNITIES
+##  OPEN TO OPPORTUNITIES
 
 I'm interested in:
 
@@ -323,7 +323,7 @@ I'm interested in:
 
 ---
 
-## `10` · CONNECT
+##  CONNECT
 
 <div align="center">
 
