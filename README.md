@@ -1,6 +1,4 @@
 
-<<<<<<< HEAD
-=======
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6C5CE7,50:8E44AD,100:00D9FF&text=HARSHINI%20NEELADHRI&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=JAVA%20FULL%20STACK%20%7C%20AI%2FML&descAlignY=63&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;AI%2FML+Enthusiast;Building+Real-World+Software;Learn.+Build.+Evolve." />
@@ -159,4 +157,4 @@ I don't just write code; I architect systems—from designing robust **Spring Bo
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00D9FF,50:8A2BE2,100:FF69B4&section=footer" width="100%"/>
 
 </div>
->>>>>>> f3734ae (Basic changes)
+
