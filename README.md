@@ -115,16 +115,20 @@ I don't just write code; I architect systems—from designing robust **Spring Bo
 
 ---
 
-## 📈 GitHub Stats
-
+<!-- ================= GITHUB STATS SECTION ================= -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshini-1912&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-1912&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" width="45%"/>
+## 📈 GitHub Stats
 
-<br>
+<!-- Main Stats Card (using reliable backup endpoint) -->
+<img src="https://github-readme-stats-eight.vercel.app/api?username=Harshini-1912&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" width="48%" alt="Harshini's GitHub Stats" />
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Harshini-1912&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF&cache_seconds=1800" width="40%" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com?user=Harshini-1912&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=FF69B4&currStreakLabel=00D9FF" width="70%"/>
+<br><br>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=Harshini-1912&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=FF69B4&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak" />
 
 </div>
 
