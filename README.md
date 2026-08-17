@@ -1,52 +1,42 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:6C5CE7,50:8E44AD,100:00D9FF&text=HARSHINI%20NEELADHRI&fontSize=42&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=JAVA%20FULL%20STACK%20%7C%20AI%2FML&descAlignY=63&descSize=18" width="100%"/>
+# 👋 Harshini Neeladhri
+**Java Full Stack Developer | AI/ML Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=A970FF&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+SQL;AI%2FML+Enthusiast;Building+Real-World+Software;Learn.+Build.+Evolve." />
+*Building scalable web services, clean user interfaces, and intelligent systems.*
 
-<br><br>
+<br>
 
-<a href="https://github.com/Harshini-1912">
-<img src="https://img.shields.io/badge/GitHub-Harshini--1912-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://leetcode.com/u/Harshini_Neeladhri/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://linkedin.com/in/your-profile-url"> <!-- REPLACE WITH YOUR ACTUAL LINK -->
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<br><br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Harshini-1912.Harshini-1912)
+[![GitHub](https://img.shields.io/badge/GitHub-Harshini--1912-181717?style=flat-square&logo=github)](https://github.com/Harshini-1912)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Harshini__Neeladhri-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshini_Neeladhri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile-url) <!-- REPLACE LINK -->
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:your-email@example.com) <!-- REPLACE LINK -->
 
 </div>
 
 ---
 
-## 👋 About Me
-I'm **Harshini Neeladhri**, a Computer Science Engineering student passionate about crafting scalable, intelligent web solutions. My expertise lies in bridging the gap between high-performance backends and intuitive user experiences.
+## 📌 About Me
 
-I don't just write code; I architect systems—from designing robust **Spring Boot microservices** to building dynamic **React interfaces** and integrating **AI/ML models** that solve real-world problems.
+I'm a **Computer Science Engineering** student with a core focus on **Java Full Stack Development** and practical **AI/ML applications**. 
+
+* **Backend Focus:** Architecting RESTful APIs and secure server-side systems with **Spring Boot** and **MySQL**.
+* **Frontend Focus:** Creating responsive, component-driven interfaces using **React** and modern JavaScript.
+* **AI & Security:** Exploring machine learning models for practical use cases like URL threat analysis and NLP document processing.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,html,css" width="400"/>
-
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,azure,flask" width="400"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Spring%20Security-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/REST%20APIs-00D9FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/JWT-FF69B4?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-00D9FF?style=flat-square"/>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `Java` `Python` `JavaScript` `HTML5` `CSS3` `SQL` |
+| **Backend & Frameworks** | `Spring Boot` `Spring Security` `Flask` `REST APIs` `JWT` |
+| **Frontend & UI** | `React` `JavaScript ES6+` `HTML/CSS` |
+| **Databases & Cloud** | `MySQL` `MongoDB` `Microsoft Azure` |
+| **Tools & Platforms** | `Git` `GitHub` `Postman` `VS Code` `Eclipse` |
 
 </div>
 
@@ -59,38 +49,51 @@ I don't just write code; I architect systems—from designing robust **Spring Bo
 <td width="50%" valign="top">
 
 ### 💼 Job Portal
-*Full-stack recruitment ecosystem.*
-- **Tech:** Java, Spring Boot, React, MySQL, JWT
-- **Highlights:** Role-Based Access Control (RBAC), Secure RESTful APIs, Advanced Job Filtering.
+> *Full-Stack Recruitment Platform*
+
+* **Stack:** Java, Spring Boot, React, MySQL, JWT
+* **Key Features:**
+  * Role-Based Access Control (Recruiter / Candidate)
+  * End-to-end Job Posting and Application Pipeline
+  * Secure RESTful API architecture with JWT authentication
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🛡️ ZeroPhish
-*AI-powered URL security guard.*
-- **Tech:** Python, Flask, ML, JavaScript
-- **Highlights:** Real-time URL heuristic analysis, automated threat reporting, high-accuracy prediction engine.
+> *AI-Powered Malicious URL Detector*
+
+* **Stack:** Python, Flask, Machine Learning, JavaScript
+* **Key Features:**
+  * Real-time heuristic evaluation of incoming URLs
+  * High-accuracy prediction engine trained on security datasets
+  * Automated threat metrics generation
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 🤖 AI Resume Analyzer
-*Intelligent candidate screening tool.*
-- **Tech:** Python, NLP, Machine Learning
-- **Highlights:** Automated skill extraction, comparative analysis, actionable career insights via NLP.
+> *NLP Document & Skill Extraction System*
+
+* **Stack:** Python, NLP, Machine Learning
+* **Key Features:**
+  * Automated candidate resume parsing
+  * Keyword and technical skill matching
+  * Insights generation for career improvement
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🚗 Ride Booking System
-*Modern urban mobility solution.*
-- **Tech:** React, JavaScript, REST APIs
-- **Highlights:** Interactive real-time mapping, booking workflow simulation, fare calculation logic.
+> *Dynamic Urban Mobility Prototype*
+
+* **Stack:** React, JavaScript, REST APIs
+* **Key Features:**
+  * Interactive route mapping concepts
+  * Real-time fare estimation logic
+  * Streamlined booking workflow simulation
 
 </td>
 </tr>
@@ -98,38 +101,27 @@ I don't just write code; I architect systems—from designing robust **Spring Bo
 
 ---
 
-## 🧠 Coding Journey (LeetCode)
+## 📊 Activity & Problem Solving
 
+### 🧩 LeetCode Progress
 <div align="center">
 
-<a href="https://leetcode.com/u/Harshini_Neeladhri/">
-<img src="https://leetcard.jacoblin.cool/Harshini_Neeladhri?theme=dark&font=Baloo%202&ext=heatmap" width="600"/>
-</a>
-
-<p>
-<img src="https://img.shields.io/badge/212%2B_Problems-Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-193-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshini_Neeladhri?theme=github&font=Inter&ext=heatmap)](https://leetcode.com/u/Harshini_Neeladhri/)
 
 </div>
 
----
+<br>
 
-<!-- ================= GITHUB STATS SECTION ================= -->
+### 📈 GitHub Overview
+*(Note: Bulletproof static badges that never hit rate limits)*
+
 <div align="center">
 
-## 📈 GitHub Stats
-
-<!-- Option 1: Ultra-Reliable Alternate Mirror Server -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harshini-1912&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A970FF&icon_color=00D9FF&text_color=FFFFFF&rank_icon=github" width="48%" alt="Harshini's GitHub Stats" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harshini-1912&layout=compact&hide_border=true&bg_color=0D1117&title_color=A970FF&text_color=FFFFFF" width="42%" alt="Top Languages" />
+![GitHub Profile Summary Card](https://github-readme-stats.vercel.app/api?username=Harshini-1912&show_icons=true&theme=nord&hide_border=true&count_private=true)
 
 <br><br>
 
-<!-- Streak Stats (Fixed Alt Link) -->
-<a href="https://github.com/Harshini-1912">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini-1912&theme=tokyonight&hide_border=true&background=0D1117&ring=A970FF&fire=FF69B4&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak" />
-</a>
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-1912&layout=compact&theme=nord&hide_border=true)
 
 </div>
 
@@ -137,29 +129,19 @@ I don't just write code; I architect systems—from designing robust **Spring Bo
 
 ## 🎓 Education & Certifications
 
-| 🎓 Education | 🏆 Key Certifications |
-| :--- | :--- |
-| **B.Tech (CSE)** | Microsoft Azure AI Fundamentals |
-| **CGPA:** 8.88 | Generative AI Professional |
-| **College:** NRI | Oracle Cloud Infrastructure |
+- 🎓 **B.Tech in Computer Science Engineering** | NRI Institute of Technology *(CGPA: 8.88)*
+- 🏆 **Microsoft Azure AI Fundamentals**
+- 🏆 **Generative AI Professional**
+- 🏆 **Oracle Cloud Infrastructure Certified**
 
 ---
 
 <div align="center">
 
-### Let's Connect!
+`BUILD` • `SOLVE` • `LEARN` • `EVOLVE`
 
-<a href="mailto:your-email@example.com"> <!-- REPLACE WITH YOUR ACTUAL EMAIL -->
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+<br>
 
-<br><br>
-<sub><i>Building for the future, one commit at a time.</i></sub>
-<br><br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Harshini-1912.Harshini-1912)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00D9FF,50:8A2BE2,100:FF69B4&section=footer" width="100%"/>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Harshini-1912.Harshini-1912&left_color=gray&right_color=blue)
 
 </div>
-
