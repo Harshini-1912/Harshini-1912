@@ -1,147 +1,24 @@
-<div align="center">
+# 💫 About Me:
+I'm a Computer Science Engineering student with a core focus on Java Full Stack Development and practical AI/ML applications.<br><br>Backend Focus: Architecting RESTful APIs and secure server-side systems with Spring Boot and MySQL.<br>Frontend Focus: Creating responsive, component-driven interfaces using React and modern JavaScript.<br>AI & Security: Exploring machine learning models for practical use cases like URL threat analysis and NLP document processing.<br>
 
-# 👋 Harshini Neeladhri
-**Java Full Stack Developer | AI/ML Enthusiast**
 
-*Building scalable web services, clean user interfaces, and intelligent systems.*
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neeladhriharshini@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Harshini-1912&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Harshini-1912&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Harshini--1912-181717?style=flat-square&logo=github)](https://github.com/Harshini-1912)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harshini__Neeladhri-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Harshini_Neeladhri/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile-url) <!-- REPLACE LINK -->
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:your-email@example.com) <!-- REPLACE LINK -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
----
-
-## 📌 About Me
-
-I'm a **Computer Science Engineering** student with a core focus on **Java Full Stack Development** and practical **AI/ML applications**. 
-
-* **Backend Focus:** Architecting RESTful APIs and secure server-side systems with **Spring Boot** and **MySQL**.
-* **Frontend Focus:** Creating responsive, component-driven interfaces using **React** and modern JavaScript.
-* **AI & Security:** Exploring machine learning models for practical use cases like URL threat analysis and NLP document processing.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Harshini-1912&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Harshini-1912&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `Java` `Python` `JavaScript` `HTML5` `CSS3` `SQL` |
-| **Backend & Frameworks** | `Spring Boot` `Spring Security` `Flask` `REST APIs` `JWT` |
-| **Frontend & UI** | `React` `JavaScript ES6+` `HTML/CSS` |
-| **Databases & Cloud** | `MySQL` `MongoDB` `Microsoft Azure` |
-| **Tools & Platforms** | `Git` `GitHub` `Postman` `VS Code` `Eclipse` |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Job Portal
-> *Full-Stack Recruitment Platform*
-
-* **Stack:** Java, Spring Boot, React, MySQL, JWT
-* **Key Features:**
-  * Role-Based Access Control (Recruiter / Candidate)
-  * End-to-end Job Posting and Application Pipeline
-  * Secure RESTful API architecture with JWT authentication
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ ZeroPhish
-> *AI-Powered Malicious URL Detector*
-
-* **Stack:** Python, Flask, Machine Learning, JavaScript
-* **Key Features:**
-  * Real-time heuristic evaluation of incoming URLs
-  * High-accuracy prediction engine trained on security datasets
-  * Automated threat metrics generation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Resume Analyzer
-> *NLP Document & Skill Extraction System*
-
-* **Stack:** Python, NLP, Machine Learning
-* **Key Features:**
-  * Automated candidate resume parsing
-  * Keyword and technical skill matching
-  * Insights generation for career improvement
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Ride Booking System
-> *Dynamic Urban Mobility Prototype*
-
-* **Stack:** React, JavaScript, REST APIs
-* **Key Features:**
-  * Interactive route mapping concepts
-  * Real-time fare estimation logic
-  * Streamlined booking workflow simulation
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Activity & Problem Solving
-
-### 🧩 LeetCode Progress
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Harshini_Neeladhri?theme=github&font=Inter&ext=heatmap)](https://leetcode.com/u/Harshini_Neeladhri/)
-
-</div>
-
-<br>
-
-### 📈 GitHub Overview
-*(Note: Bulletproof static badges that never hit rate limits)*
-
-<div align="center">
-
-![GitHub Profile Summary Card](https://github-readme-stats.vercel.app/api?username=Harshini-1912&show_icons=true&theme=nord&hide_border=true&count_private=true)
-
-<br><br>
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini-1912&layout=compact&theme=nord&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-- 🎓 **B.Tech in Computer Science Engineering** | NRI Institute of Technology *(CGPA: 8.88)*
-- 🏆 **Microsoft Azure AI Fundamentals**
-- 🏆 **Generative AI Professional**
-- 🏆 **Oracle Cloud Infrastructure Certified**
-
----
-
-<div align="center">
-
-`BUILD` • `SOLVE` • `LEARN` • `EVOLVE`
-
-<br>
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Harshini-1912.Harshini-1912&left_color=gray&right_color=blue)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
