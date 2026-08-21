@@ -59,7 +59,7 @@ I'm a Computer Science Engineering student with a core focus on Java Full Stack 
 ![](https://github-readme-stats.shion.dev/api?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 <a href="https://github.com/Harshini-1912">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini-1912&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=Harshini-1912&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
