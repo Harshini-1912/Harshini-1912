@@ -4,7 +4,7 @@ I'm a Computer Science Engineering student with a core focus on Java Full Stack 
 
 <div align="center">
 
-### 📬 Socials (Skill Icons)
+### 📬 Socials
 <a href="mailto:neeladhriharshini@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
@@ -53,19 +53,37 @@ I'm a Computer Science Engineering student with a core focus on Java Full Stack 
 
 </div> 
 
-<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+## 📊 GitHub Stats:
+
+<div align="center">
+
+<table border="0">
+  <tr>
+    <td valign="top" align="center">
+      <a href="https://github.com/Harshini-1912">
+        <img src="https://github-readme-stats.shion.dev/api?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+      </a>
+    </td>
+    <td valign="top" align="center">
+      <a href="https://github.com/Harshini-1912">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" alt="Most Used Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <a href="https://github.com/Harshini-1912">
-  <img src="https://streak-stats.vercel.app/?user=Harshini-1912&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=Harshini-1912&theme=dark&hide_border=false" width="80%" alt="GitHub Streak" />
 </a>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![Visitor Count](https://komarev.com/ghpvc/?username=Harshini-1912&color=8A2BE2&style=flat-square)](https://github.com/Harshini-1912)
