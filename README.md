@@ -67,7 +67,7 @@ I'm a Computer Science Engineering student with a core focus on Java Full Stack 
     </td>
     <td valign="top" align="center">
       <a href="https://github.com/Harshini-1912">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="225" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Harshini-1912&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="300" alt="Most Used Languages" />
       </a>
     </td>
   </tr>
